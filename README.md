@@ -111,3 +111,4 @@ It's very similar to Claude Code in terms of capability. Here are the key differ
 ---
 
 **Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
+/CN
